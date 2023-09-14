@@ -43,8 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="LongestPalindromicSubstring5.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReverseInteger7.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
